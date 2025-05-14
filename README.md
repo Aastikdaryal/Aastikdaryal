@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aastikdaryal
 - 👀 I’m interested in cars
-- 🌱 I’m currently learning AI/ML
+- 🌱 I’m currently pursuing MCA
 - 📫 How to reach me www.linkedin.com/in/aastikdaryal
 - ⚡ Fun fact: I am more into cars than coding
 
